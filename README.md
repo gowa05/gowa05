@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gowa05
-- 👀 I’m interested in learning new things
+- 👀 I’m interested in learning new things and aspire to be a full stack developer 
 - 📫 How to reach me @jhangowat@gmail.com
-- ⚡ Fun fact: if you bite a apple, its still a apple. 🍎 
+- ⚡ Fun fact: You will never know unless ypu start
 
 <!---
 gowa05/gowa05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
